@@ -5,14 +5,14 @@ import { RectangleHorizontal, ArrowRight } from "lucide-react";
 export const projects = [
   {
     id: 1,
-    title: "Vehicle Management System",
-    cardClass: "vehicleManagement-project ",
-    textClass: "vehicle-text z-10",
-    image: "/projects/project1.png",
+    title: "Drivea — Cloud Storage Platform",
+    cardClass: "drivea-project ",
+    textClass: "drivea-text z-10",
+    image: "/projects/drivea.jpg",
     description:
-      "A Java full-stack vehicle management system designed to track fleets, schedule maintenance, and manage driver assignments. It includes secure role-based access, RESTful backend services, and a responsive dashboard for real-time vehicle status and analytics.",
-    tag: "Java Full Stack . Vehicle Management",
-    url: "https://github.com/trisha3690/GarageFlow",
+      "Drivea is a full-stack cloud storage web application that allows users to upload, organize, manage, and share their files securely. It provides an intuitive drive interface with folder management, file previews, public sharing links, trash recovery, and storage quota tracking.",
+    tag: "Full Stack . Cloud Storage Platform",
+    url: "https://drivea-r3tk.vercel.app/",
   },
   {
     id: 2,
